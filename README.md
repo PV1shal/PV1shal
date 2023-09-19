@@ -1,15 +1,12 @@
 # 💫About Me :
 
--📚 Pursuing Masters in Computer Science.
-
-
--💻 Software Developer based in Seattle.
-
-
--🤩 I love participating in Hackathons.
-
-
--📖 I am currently learning AWS and Go.
+*   🌍  I'm based in Seattle, WA
+*   📚 Pursuing Masters in Computer Science.
+*   🖥️  See my portfolio at [My Portfolio](http://pv1shal.github.io/Portfolio/)
+*   ✉️  You can contact me at [vishal.pugazhendhi@gmail.com](mailto:vishal.pugazhendhi@gmail.com)
+*   🧠  I'm learning AWS and Go.
+*   🤝  I'm open to collaborating on Interesting Projects.
+*   ⚡  Why did the scarecrow win an award? Because he was outstanding in his field!
 
 
 ## 🌐Socials
