@@ -1,9 +1,13 @@
 # 💫About Me :
+
 -📚 Pursuing Masters in Computer Science.
+
 
 -💻 Software Developer based in Seattle.
 
+
 -🤩 I love participating in Hackathons.
+
 
 -📖 I am currently learning AWS and Go.
 
