@@ -1,7 +1,7 @@
 # 💫About Me :
 
 *   🌍  I'm based in Seattle, WA
-*   📚 Pursuing Masters in Computer Science.
+*   📚  Masters of Science in Computer Science.
 *   🖥️  See my portfolio at [My Portfolio](http://pv1shal.github.io/Portfolio/)
 *   ✉️  You can contact me at [vishal.pugazhendhi@gmail.com](mailto:vishal.pugazhendhi@gmail.com)
 *   🧠  I'm learning AWS and Go.
